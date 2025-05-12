@@ -1,5 +1,5 @@
 # 💫 About Me
-My name is Savvas Chanlaridis (pronounced Sáv-vas Han-la-ri-dis) and I am a doctoral researcher at the Institute of Astrophysics - FORTH, Greece, in the Stellar AfterLife & Transients group.<br>My research interests include (but are not limited to) stellar structure and evolution, formation and evolution of compact objects, double neutron star binary systems, equation-of-state of neutron stars, pulsar astronomy, and nuclear astrophysics. 
+My name is Savvas Chanlaridis (pronounced Sáv-vas Han-la-ri-dis). I hold a PhD in Astrophysics and currently I work as a data scientist in the private sector.
 
 
 ## 🌐 Socials
